@@ -2,7 +2,7 @@ If  you   are  reading   a   printed  version  of   this document,    you   shou
 (https://documents.manchester.ac.uk/display.aspx?DocID=17994.)   to  ensure  you have  the
 most up to date version.
 
-# The University of Manchester
+# The University of Manchester 
 
 # Anti-Corruption and Bribery Policy
 # CONTENTS
