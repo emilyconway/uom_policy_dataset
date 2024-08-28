@@ -20,34 +20,29 @@ The University of Manchester
 
 - 3.1.1. Intensive – these roofs are designed to allow access for people. They have deep substrates (usually above 200mm) that can support trees and shrubs as well as providing accessible areas. These roofs require higher levels of maintenance, including regular irrigation.
 - 3.1.2. Semi intensive – can include characteristics of both extensive and intensive roofs. Typically requiring a substrate depth of 100-200mm, a wider range of plants can be included compared to extensive green roofs, including shrubs and woody plants. Irrigation and maintenance requirements dependent on plant species installed.
-- 3.1.3. Extensive – generally provide a visual or biodiversity interest and support plants with lower maintenance requirements e.g. sedums, grasses, mosses and wildflowers. These planting types
+- 3.1.3. Extensive – generally provide a visual or biodiversity interest and support plants with lower maintenance requirements e.g. sedums, grasses, mosses and wildflowers. These planting types are able to survive on shallower substrate depths (usually 100mm or lower), require lower nutrient levels and little or no irrigation requirement.
+ 
 
 30th January 2019
 
 Page 1 of 3
-# Green Roof and Wall Policy
 
-3.1. Green roof – a green roof is a roof of a building that is partially or completely covered with vegetation and a growing medium, planted over a waterproofing membrane. There are three main types of green roofs:
-
-- 3.1.1. Intensive green roof – an intensive green roof is characterized by a deeper growing medium (usually more than 150mm) that can support a wide variety of plant species, including trees and shrubs. It requires regular maintenance, irrigation, and nutrient supplementation.
-- 3.1.2. Extensive green roof – an extensive green roof has a shallower growing medium (usually less than 100mm) and is designed to be lightweight. It typically consists of hardy, drought-tolerant plant species that require minimal maintenance and irrigation.
-- 3.1.3. Biodiverse green roof – a biodiverse green roof is designed to replicate natural habitats and support a diverse range of plant and animal species. These roofs are able to survive on shallower substrate depths (usually 100mm or lower), require lower nutrient levels and little or no irrigation requirement.
 - 3.1.4. Brown roof – a brown roof is not purposefully planted. The growing medium is selected and installed to allow indigenous plant species to inhabit the roof over time. Natural features may be introduced to replicate habitats for various insects, birds, animals, and plants.
 
 3.2. Green Wall – also known as a living wall, is a wall featuring plants grown in vertical systems that can be freestanding but are generally attached to internal or external walls. In green walls, the plants, growing substrate, irrigation, and drainage are incorporated into the one system.
 
 3.3. Green facade – a green facade is created by growing plants up and across the face of a building. Plants are either rooted in the ground or grown from containers installed at different levels on the face of the building. Climbing plants can attach directly to the surface of a building or be supported on a structure independent of the building.
 
-# Roles and Responsibilities
+# 4. Roles and Responsibilities
 
-- 4.1. It is the responsibility of the Project Manager to ensure a feasibility study is completed taking into consideration the driver/purpose for installation, planning requirements, maintenance, and funding. The Project Manager is responsible for overseeing construction, installation, and managing the first-year defects period.
-- 4.2. It is the responsibility of the Client Services Unit (CSU) to review documents, provide expertise, and sign off.
+- 4.1. It is the responsibility of the Project Manager to ensure a feasibility study is completed taking into consideration the driver/purpose for installation, planning requirements, maintenance, and funding. The Project Manager is responsible for overseeing construction, installation, and managing the first year defects period.
+- 4.2. It is the responsibility of the Client Services Unit (CSU) to review documents, provide expertise and sign off.
 - 4.3. It is the responsibility of the Environmental Services Unit (ESU) to provide guidance on maintenance requirements and ensure appropriate management and maintenance of installations.
 - 4.4. It is the responsibility of the Maintenance Services Unit (MSU) to provide guidance on relevant maintenance requirements and oversee maintenance where applicable.
 - 4.5. It is the responsibility of the Environmental Sustainability Team to provide strategic oversight ensuring the targets and objectives of the Living Campus Plan are met.
-- 4.6. It is the responsibility of Green Wall/Roof Contractors to provide first-year maintenance to ensure successful establishment and defect resolution.
+- 4.6. It is the responsibility of Green Wall/Roof Contractors to provide first year maintenance to ensure successful establishment and defect resolution.
 
-# General Principles
+# 5. General Principles
 
 5.1. Green roof and green wall installations should be considered across all The University of Manchester Masterplan Projects and on buildings undergoing redevelopment or refurbishment outside the Masterplan where feasible, to deliver as many as the following objectives as possible:
 
