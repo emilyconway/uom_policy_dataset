@@ -74,7 +74,7 @@ Page 1 of 3
 6.3. If any existing green roof or green wall installation is removed without adherence to this policy, sign off will not be provided.
 
 # 6. Policy Content
-
+|Version amendment history|
 |Version|Date|Reason for change|
 |---|---|---|
 |1|Dec 2014|Original document|
@@ -82,7 +82,7 @@ Page 1 of 3
 
 Document control box
 
-Policy / Procedure title:
+Policy / Procedure title: Green Roof and Wall Policy
 
 Lead contact email: julia.durkan@manchester.ac.uk
 
@@ -103,11 +103,9 @@ Related policies/procedures/guidance etc:
 - EPM PM7 – Code of Practice for Design Teams
 - Environmental Sustainability Tracker
 
-Policy owner:
+Policy owner: Emma Gardner, Head of Environmental Sustainability
 
-Lead contact: Emma Gardner, Head of Environmental Sustainability
-
-Julia Durkan, University Sustainable Campus Officer
+Lead contact: Julia Durkan, University Sustainable Campus Officer
 
 30th January 2019
 
