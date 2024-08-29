@@ -122,18 +122,11 @@ d) Visiting Research Students will not be admitted to the University if they hav
 
 # 2.2.1 International Visiting Research Students attending for less than 6 months
 
-a) Visiting Research Students who require a visa to enter the UK, and who wish to attend for less than 6 months can attend on a Short Term Student visa or apply for a Tier 4 visa. To enable the student to apply for a short term student visa, the host School at the University of Manchester should issue a letter of invitation using the short-term student visa letter template provided by the Student Immigration Team which includes the University of
-# Visiting Research Student Policy
+a) Visiting Research Students who require a visa to enter the UK, and who wish to attend for less than 6 months can attend on a Short Term Student visa or apply for a Tier 4 visa. To enable the student to apply for a short term student visa, the host School at the University of Manchester should issue a letter of invitation using the short-term student visa letter template provided by the Student Immigration Team which includes the University of Manchester's sponsor licence number: http://www.saa.manchester.ac.uk/student-immigration/visa/stsv/.
 
-October 2019
+b) Visiting Research Students staying for more than one month and less than 6 months, who are in the UK on a Short Term Student visa cannot extend their stay, change to a different visa category or undertake any work (paid or unpaid).
 
-Manchester's sponsor licence number: http://www.saa.manchester.ac.uk/student-immigration/visa/stsv/.
-
-# 2.2.1 Visiting Research Students staying for more than one month and less than 6 months
-
-a) Visiting Research Students staying for more than one month and less than 6 months, who are in the UK on a Short Term Student visa cannot extend their stay, change to a different visa category or undertake any work (paid or unpaid).
-
-b) Where it is known at the start that the overall visit will be over 6 months the student must apply for a Tier 4 visa at the start. The student is not permitted to enter on a Short Term Student visa and then return home to obtain a Tier 4 visa for a further 6 months.
+c) Where it is known at the start that the overall visit will be over 6 months the student must apply for a Tier 4 visa at the start. The student is not permitted to enter on a Short Term Student visa and then return home to obtain a Tier 4 visa for a further 6 months.
 
 # 2.2.2 International Visiting Research Students attending for more than 6 months
 
@@ -160,7 +153,7 @@ including agreed research plan and the CAH3 code for their research; and that th
 
 f) For information on ATAS clearance, please contact the Student Immigration Team.
 
-# KEY PRINCIPLES FOR VISITING RESEARCH STUDENTS
+# 3 KEY PRINCIPLES FOR VISITING RESEARCH STUDENTS
 
 # 3.1 Taught Units
 
@@ -174,12 +167,7 @@ Visiting Research Students can attend existing taught modules, but will normally
 - a) The offer letter sent to the Visiting Research Student should include information on fee requirements as stated in the Student Immigration Team intranet, the attendance dates of the visit, and where possible, the student’s named ‘pre-arrival contact’ (as outlined in section 3.4).
 - b) Enquiries from prospective Visiting Research students can be made informally to supervisors or the school/Faculty PGR office, and students should normally be encouraged to approach a potential supervisor before they make a formal application to attend. Normally a research proposal and CV should be presented to the supervisor to consider the benefit the University and the student will take from the period of attendance. Should a supervisor be confident that the period of attendance will be beneficial for the student and the School involved, the applicant will then be asked to complete the University of Manchester’s online application form or contact the School / Faculty PGR Administrator for further guidance where appropriate.
 - c) Students wishing to be considered for a Visiting Research Student period of study must formally apply through the University of Manchester online application form.
-- d) Visiting Research Exchange Students, will apply separately through the Exchange application form in the first instance. For further details see:
-# Visiting Research Student Policy
-
-October 2019
-
-http://www.humanities.manchester.ac.uk/research/postgraduate-research/collaboration/
+- d) Visiting Research Exchange Students, will apply separately through the Exchange application form in the first instance. For further details see: http://www.humanities.manchester.ac.uk/research/postgraduate-research/collaboration/
 
 # e) Applications from Visiting Research Students will need to be approved by the PGR Director / PG tutor within the admitting School.
 
@@ -201,20 +189,13 @@ Once the Visiting Research Student has completed registration they will have the
 
 # 3.4 Induction, support and information for Visiting Research Students
 
-# a) Visiting Research Students have particular needs and requirements and are normally attending the University of Manchester to carry out research. Ensuring that Visiting Research Students have the appropriate information and support when they arrive will ensure they are able to maximise the benefit of their visit.
+a) Visiting Research Students have particular needs and requirements and are normally attending the University of Manchester to carry out research. Ensuring that Visiting Research Students have the appropriate information and support when they arrive will ensure they are able to maximise the benefit of their visit.
 
-# b) Visiting Research Students should have a pre-arrival contact assigned to them who should assist the student with finding accommodation, and providing information on orientation, and will act as their first point of contact on arrival. Induction will normally be part of the supervisor’s responsibilities.
+b) Visiting Research Students should have a pre-arrival contact assigned to them who should assist the student with finding accommodation, and providing information on orientation, and will act as their first point of contact on arrival. Induction will normally be part of the supervisor’s responsibilities.
 
-# c) Visiting Research Students will be required to attend any health and safety briefings or complete any appropriate questionnaires, according to local School
-# Visiting Research Student Policy
+c) Visiting Research Students will be required to attend any health and safety briefings or complete any appropriate questionnaires, according to local School induction policy. Ensuring Visiting Research Students have completed any health and safety requirements is the responsibility of the School.
 
-October 2019
-
-# 3. Visiting Research Student Registration
-
-a) Visiting Research Students must complete the University’s online induction policy. Ensuring Visiting Research Students have completed any health and safety requirements is the responsibility of the School.
-
-b) Visiting students from outside the EU/EEA must also attend International Check-In at the Student Services Centre to have their passport and visa information scanned.
+d) Visiting students from outside the EU/EEA must also attend International Check-In at the Student Services Centre to have their passport and visa information scanned.
 
 # 3.5 Record management
 
