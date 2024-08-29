@@ -247,8 +247,10 @@ Version amendment history
 |Version|Date|Reason for change|
 |---|---|---|
 |3|October 2019|Updated with ATAS rules|
+
 # Visiting Research Student Policy
 
+Document control box
 |Policy / Procedure title:|Visiting Research Student Policy|
 |---|---|
 |Lead contact email|Alex.Hinchliffe@manchester.ac.uk|
@@ -265,8 +267,8 @@ Related Statutes, Ordinances, General Regulations:
 
 Related policies/procedures/guidance:
 
-- Admissions policy
-- Immigration scenarios document
+- Admissions policy: http://documents.manchester.ac.uk/display.aspx?DocID=6523
+- Immigration scenarios document: http://documents.manchester.ac.uk/display.aspx?DocID=21012
 
 Policy owner: Alex Hinchliffe Research Degrees and Researcher Development Officer
 
