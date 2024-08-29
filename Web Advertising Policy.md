@@ -33,7 +33,11 @@ Sponsorship must not conflict with the University’s strategic goals, policies 
 # 2.4
 
 The values or opinions of an organisation sponsoring a University activity and whose logo appears on a University web page must not be seen to directly contradict those of the University.
-# Non-commercial funders and partners
+
+# 2.5  
+It is permitted for the organisation’s logo to link to their homepage.
+
+# 3 Non-commercial funders and partners
 
 There are likely to be many situations where the University is engaged with funding partners or linked with organisations for a specific activity or initiative not directly related to commercial sponsorship. Endorsement/recognition of these relationships by featuring the logo of these organisations on the University’s website is permitted but must adhere to the following rules:
 
@@ -45,7 +49,7 @@ It is permitted for the organisation’s logo to link to its homepage.
 
 The partner logo should appear directly below the University’s main logo at as similar a size as possible. If the University does not own the publication, the University logo should sit alongside the partner’s logo, ideally to the left. Exceptions can only be approved by the Division of Communications and Marketing.
 
-# Links to commercial vendors
+# 4 Links to commercial vendors
 
 Links to commercial vendors where there is no sponsorship or payment to the University may be made in the following situations:
 
@@ -61,20 +65,23 @@ Link to an ongoing project contractor providing services to The University of Ma
 
 A link which provides information for educational or strategic related purposes and the University considers that information appropriate for these reasons.
 
-# Positioning of logos on University web pages
+# 5 
+Positioning of logos on University web pages must not contradict the University’s web guidelines which can be found at www.brand.manchester.ac.uk/visual-identity/logo/. The width or depth of an organisation’s logo should be no larger than the width of the university logo (169 pixels).
 
-must not contradict the University’s web guidelines which can be found at www.brand.manchester.ac.uk/visual-identity/logo/. The width or depth of an organisation’s logo should be no larger than the width of the university logo (169 pixels).
+# 6 
+Logos and/or text relating to sponsorship or any other relationship with the University appearing on University web pages should abide by the Janet Acceptable Use Policy which may be found at https://community.jisc.ac.uk/library/acceptable-use-policy
 
-# Logos and/or text relating to sponsorship or any other relationship with the University
+# 7 
+Current and former suppliers to the University can reproduce the University logo in the company’s marketing literature and on its website. Written permission must be obtained from the Division of Communications and Marketing by using the form on www.brand.manchester.ac.uk/get-in-touch/. The University logo should be used in accordance with guidelines published on the brand site which can be found at www.brand.manchester.ac.uk/visual-identity/logo/.
 
-appearing on University web pages should abide by the Janet Acceptable Use Policy which may be found at https://community.jisc.ac.uk/library/acceptable-use-policy
-
-# Current and former suppliers to the University
-
-can reproduce the University logo in the company’s marketing literature and on its website. Written permission must be obtained from the Division of Communications and Marketing by using the form on www.brand.manchester.ac.uk/get-in-touch/. The University logo should be used in accordance with guidelines published on the brand site which can be found at www.brand.manchester.ac.uk/visual-identity/logo/.
+# 8 
 Responsibility for adhering to the conditions of this policy lies with the Head of Faculty, School, Directorate or Division responsible for the web pages where the sponsorship logo/text will appear.
 
+# 9
 Any dispute in relation to this policy should be directed to the Digital Marketing Leadership Team.
+
+Document control box
+
 Policy/procedure title: Policy for Advertising and Sponsorship on University Web Pages
 
 |Date approved:|January 2018|
