@@ -9,21 +9,26 @@ October 2019
 
 1. # INTRODUCTION
 
-1. 1.1 Aims
-2. 1.2 Definition of a Visiting Research Student
-3. 1.3 Those not accommodated within this policy
+1.1. Aims
+1.2 Definition of a Visiting Research Student
+1.3 Those not accommodated within this policy
+
 2. # DURATION OF ATTENDANCE AND MODE OF STUDY
 3. # KEY PRINCIPLES FOR VISITING RESEARCH STUDENTS
 
-1. 3.1 Taught units
-2. 3.2 Application process
-3. 3.3 Registration of students
-4. 3.4 Induction, support and information for Visiting Research Students
-5. 3.5 Record management
-6. 3.6 Research Environment and Resources
+3.1 Taught units
+3.2 Application process
+3.3 Registration of students
+3.4 Induction, support and information for Visiting Research Students
+3.5 Record management
+3.6 Research Environment and Resources
+
 4. # FEE ARRANGEMENTS
+
 5. # SUPERVISION
+
 6. # RESPONSIBILITIES OF THE VISITING RESEARCH STUDENT
+
 # Visiting Research Student Policy
 
 October 2019
@@ -66,7 +71,7 @@ e) Students who are part of a collaborative Centre for Doctoral Training arrange
 
 f) This policy also refers to Visiting Research Exchange Students on a strategic reciprocal arrangement.
 
-# Those not accommodated within this policy
+# 1.3 Those not accommodated within this policy
 
 The Visiting Research Student route does not accommodate:
 
@@ -103,7 +108,7 @@ g) Applications for an extension to a Visiting Research Student stay and/or mult
 
 h) In exceptional circumstances, where a School or research group has a collaborative arrangement with a peer institution, a student may be allowed to attend for up to one year with approval from the Head of School. In these circumstances, the student will be recorded on Campus Solutions as a ‘Research Partner Student’. The collaborative arrangement must show evidence of strong strategic links with the peer institution, through areas such as research grants, recently published collaborative papers or student exchanges.
 
-# 2.2 Attendance Requirements for International Visiting Research Students
+# 2.2 The following attendance requirements apply to international Visiting Research Students who require a visa to study in the UK
 
 [Please refer to the immigration scenarios document provided by the Student Immigration Team for further details]
 
