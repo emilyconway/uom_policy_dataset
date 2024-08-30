@@ -123,9 +123,6 @@ Where requested, the Group will provide recommendations to the UHHSG on the Univ
 
 The University History and Heritage Strategy Group (UHHSG) has overall responsibility for the University Collections. Where necessary and appropriate, the UHHSG will escalate matters to the PRC.
 
-University Collections Policy 4 June 2016
-# The UHHSG
-
 The UHHSG invests the University Historian and Heritage Manager with day-to-day management and authority over the University Collections within the parameters set out in this policy. Over and above the parameters set out in this policy, the UHHM will escalate to the UHHSG any matters where is seems appropriate and necessary to do so. The UHHM will provide an annual report on the University Collections to the UHHSG.
 
 # Care and collection management for the University Collections
