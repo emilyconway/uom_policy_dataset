@@ -13,7 +13,8 @@
 |---|---|
 |2.1|Newly appointed staff for whom the University of Manchester has obtained a Certificate of Sponsorship and where the individual has successfully obtained a Tier 2 (General) visa and commenced their role.|
 |2.2|Existing members of staff for whom the University of Manchester has obtained an extension to an existing Certificate of Sponsorship and the individual has successfully obtained an extension to their Tier 2 (General) visa.|
-|2.3|Interest-free loans will be available for Tier 2 (General) visa holders for the costs of any dependent’s visas and their immigrant health surcharges up to a maximum of £10,000.|
+|2.3|Interest-free loans will be available for Tier 2 (General) visa holders for the costs of any dependent’s visas and their immigrant health surcharges up to a maximum of £10,000 for appointments of two years or over. This will be limited to £5,000 for appointments between six months and two years.
+|
 
 Human Resources
 
