@@ -125,17 +125,17 @@ The University History and Heritage Strategy Group (UHHSG) has overall responsib
 
 The UHHSG invests the University Historian and Heritage Manager with day-to-day management and authority over the University Collections within the parameters set out in this policy. Over and above the parameters set out in this policy, the UHHM will escalate to the UHHSG any matters where is seems appropriate and necessary to do so. The UHHM will provide an annual report on the University Collections to the UHHSG.
 
-# Care and collection management for the University Collections
+# 5 Care and collection management for the University Collections
 
 The University Collections are diverse and their care requires the co-operation of different parts of the University.
 
 The Cultural Institutions are key partners in the care and conservation of the University Collections and provide specialist advice and services where necessary as requested by the UHHM. Where expertise does not exist within the University, external specialist advice and services will be commissioned by the UHHM.
 
-# Acquisitions
+# 5.1 Acquisitions
 
 Sound reasons must be established before any item is acquired by the University Collections. Only items that meet the criteria below will be acquired.
 
-# The University Heritage Collection
+# 5.1.1 The University Heritage Collection
 
 The UHHM will use sector best practice and obtain specialist advice where necessary to consider and agree acquisitions. To be considered for accession, an object should:
 
@@ -187,7 +187,7 @@ So far as biological and geological material is concerned, the University Collec
 
 All acquisitions must be detailed on an object entry form (see appendix 1) and entered into the University Collections Management System.
 
-# Gifts and Bequests
+# 5.1.4 Gifts and Bequests
 
 The UHHSG invests the UHHM with the authority to accept gifts and bequests into the University Collections if they meet the criteria set out in sections 5.1.1, 5.1.2 and 5.1.3.
 
@@ -201,14 +201,14 @@ Donors must be made aware of the financial and cultural value of the object that
 
 The University will not accept gifts with attached conditions. Donations must be unconditional and in perpetuity.
 
-# Cataloguing
+# 5.2 Cataloguing
 
 All items in the University Collections should be included on the University Collections Management System.
 
 All items on the University Collections Management System will be catalogued according to sector best practice. An entry will also be made in the University Collections ledger.
 
 June 2016
-# Storage, security and insurance
+# 5.3 Storage, security and insurance
 
 The University Collections are held in multiple locations across the University Estate. Wherever possible, items should be stored according to sector best practice standards.
 
@@ -234,7 +234,7 @@ Loss, damage or vandalism to an item must be reported immediately to University 
 
 The University Collections are covered by the University’s general insurance policy.
 
-# Movement
+# 5.5 Movement
 
 Movement of individual objects or collections for display or research should not be undertaken without good reason due to the possibility of damage to items. Requests to move an item(s) should be made to the UHHM (in the case of the University Heritage Collection) or the respective nominated individual (in the case of the Faculties and Residences Collections). In the case of objects in the Faculties and Residences Collections, the nominated individual should discuss the object movement with the UHHM.
 
