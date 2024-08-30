@@ -245,7 +245,7 @@ Suitable Health and Safety assessments must be made in the event of moving large
 
 An up to date catalogue or inventory of objects or collections must be made before any movement and checked off again once the relocation is complete and any new damage or change in conditions noted.
 
-# Conservation
+# 5.6 Conservation
 
 The University Collection should be cared for in such a manner so as to ensure deterioration is kept to a minimum. The University Collections adhere to the ‘minimum intervention’ principle where the objective is to:
 
@@ -259,7 +259,7 @@ Nominated individuals for the University Faculties and Residences Collections sh
 
 The UHHM will use sector best practice and obtain specialist advice to consider and agree enhanced care and conservation work. If the UHHM deems that an object requires enhanced care or conservation work and an item’s value is in excess of £100,000 or is of outstanding importance to the University and its history, a recommendation will be made to the UHHSG for consideration.
 
-# Display
+# 5.7 Display
 
 Many items in the University Collections are on display across the University’s estate. These displays are important for representing the University’s history and building our collective identity and culture.
 
@@ -268,27 +268,26 @@ Items may have been on display for many years and, where possible, effort should
 University Collections Policy
 
 June 2016
-# Nominated individuals for the University Faculties and Residences Collections
 
-should bring any planned displays to the attention of the UHHM immediately. The nominated individual will liaise with the UHHM regarding the display to ensure sector best practice is followed.
+Nominated individuals for the University Faculties and Residences Collections should bring any planned displays to the attention of the UHHM immediately. The nominated individual will liaise with the UHHM regarding the display to ensure sector best practice is followed.
 
 The UHHM will use sector best practice and obtain specialist advice to consider and agree new displays. If the UHHM deems that an object should be displayed but the item’s value is in excess £100,000 or it is of outstanding importance, a recommendation will be made to the UHHSG.
 
 All practical efforts should be made to keep items on display safe and secure. The security of the item will be reviewed periodically by the UHHM and, where necessary, University Security.
 
-# Loans
+# 5.8 Loans
 
-# Loans out
+# 5.8.1 Loans out
 
 All requests for loans from the University Collections should be submitted to the UHHM using the loan application form in appendix 3. Nominated individuals for the University Faculties and Residences Collections should bring any requests for loans to the attention of the UHHM immediately. The nominated individual will liaise with the UHHM regarding potential loans display to ensure sector best practice is followed.
 
 The organisation requesting the loan must be able to demonstrate:
 
-- Proof of a suitable site of display.
-- An ability to care for the object.
-- Appropriate security arrangements.
-- A facilities report.
-- Appropriate insurance.
+- 1. Proof of a suitable site of display.
+- 2. An ability to care for the object.
+- 3. Appropriate security arrangements.
+- 4. A facilities report.
+- 5. Appropriate insurance.
 
 Each loan should have an agreed duration. The maximum duration of a loan is 5 years. Loans may be extended through the creation of a new loan agreement.
 
@@ -301,7 +300,8 @@ The UHHM will agree loans under the following conditions:
 Where the above conditions are not met, the UHHM will submit the request to the UHHSG for consideration.
 
 University Collections Policy 10 June 2016
-# Loans in
+
+# 5.8.2 Loans in
 
 All requests for loans in should originate from the UHHM. Nominated individuals for the University Faculties and Residences Collections should bring any plans to request loans to the attention of the UHHM immediately. The nominated individual will liaise with the UHHM regarding the display to ensure sector best practice is followed.
 
@@ -324,7 +324,7 @@ The UHHM will agree loans under the following conditions:
 
 Where the above conditions are not met, the UHHM will submit the request to the UHHSG for consideration.
 
-# Disposal and transfer
+# 5.9 Disposal and transfer
 
 Disposal and transfer refers to removal of an object(s) from the University Collections through a variety of means including:
 
@@ -395,6 +395,8 @@ For disposal of items within the University Faculty and Residences Collection, t
 - Details of how the items will be disposed.
 
 Once the object has been removed, the University Collections Management System should be updated.
+
+END
 
 Enquiries: Dr. James Hopkins, University Historian and Heritage Manager
 James.hopkins@manchester.ac.uk
