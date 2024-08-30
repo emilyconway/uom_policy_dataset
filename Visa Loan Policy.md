@@ -15,14 +15,6 @@
 |2.2|Existing members of staff for whom the University of Manchester has obtained an extension to an existing Certificate of Sponsorship and the individual has successfully obtained an extension to their Tier 2 (General) visa.|
 |2.3|Interest-free loans will be available for Tier 2 (General) visa holders for the costs of any dependent’s visas and their immigrant health surcharges up to a maximum of £10,000 for appointments of two years or over. This will be limited to £5,000 for appointments between six months and two years.
 |
-
-Human Resources
-
-The University of Manchester
-
-Page 1 of 5
-# Visa Costs and Loans Policy
-
 2.4
 The University does not reimburse the costs for any other types of visa or immigrant health surcharges for other visa nationals.
 
@@ -38,13 +30,6 @@ The University does not reimburse the costs for any other types of visa or immig
 |4.1|Claims for visa fee and health surcharge reimbursement should be submitted through the University’s on-line expenses claim form with receipts and sent to HR Services within three months of the payment. Applications for an interest free loan should be made by completing the application form and returning the completed form to HR Services. Claims for the health surcharge must be paid via the payroll system; please complete a PR5 form.|
 |---|---|
 |4.2|Visa expenses will be paid within 14 days of receipt of signed paperwork with original receipts into the individual’s bank account. Where the School/Directorate has agreed to pay additional monies for premium or priority service the member of staff should submit their claim for the full amount. The School/Directorate will provide an account code to HR Services who will re-charge the amount. If an individual has themselves chosen to use the premium or priority service HR Services will only reimburse them the standard cost.|
-
-Human Resources
-
-The University of Manchester
-
-Page 2 of 5
-# Visa Costs and Loans Policy
 
 4.3
 Loans for dependent visas and immigrant health surcharges: on receipt of the correctly completed paperwork, the loan will be paid into the individual’s bank account within 14 days.
