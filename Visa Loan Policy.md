@@ -26,14 +26,14 @@ Page 1 of 5
 2.4
 The University does not reimburse the costs for any other types of visa or immigrant health surcharges for other visa nationals.
 
-# General Principles
+# 3 General Principles
 
 |3.1|HR Services will reimburse the cost of the standard Tier 2 (General visa) and the biometric resident card only and staff will need to provide receipts for the costs.|
 |---|---|
 |3.2|Visas with duration of less than 3 months will not be reimbursed.|
 |3.3|Additional costs above the standard visa cost for the premium or priority visa service will not be reimbursed. The recruiting School/Directorate may agree to pay the excess amount but this should be agreed in advance by the applicant.|
 
-# How to claim
+# 4 How to claim
 
 |4.1|Claims for visa fee and health surcharge reimbursement should be submitted through the University’s on-line expenses claim form with receipts and sent to HR Services within three months of the payment. Applications for an interest free loan should be made by completing the application form and returning the completed form to HR Services. Claims for the health surcharge must be paid via the payroll system; please complete a PR5 form.|
 |---|---|
@@ -49,14 +49,14 @@ Page 2 of 5
 4.3
 Loans for dependent visas and immigrant health surcharges: on receipt of the correctly completed paperwork, the loan will be paid into the individual’s bank account within 14 days.
 
-# Staff Leaving the University
+# 5 Staff Leaving the University
 
 |5.1|Staff on fixed-term contracts who leave the University before the end of the contract for which the visa was issued or whose contract is prematurely terminated by the University before the stated end of the contract will be required to repay a pro-rata amount. For example, if the contract was for two years and the member of staff leaves after one year the University would require repayment of 50% of the costs.|
 |---|---|
 |5.2|Staff on permanent contracts who leave the University within two years of taking up appointment or whose contract is terminated by the University in the same timescale will be required to repay 1/24th of the amount for every month short of the two years.|
 |5.3|Any loan monies outstanding will be recovered in full before the member of staff leaves the University from the final salary payment. The contract of employment stipulates that any repayment may be deducted from an individual’s final salary payment.|
 
-# Monitoring and Review
+# 6 Monitoring and Review
 
 |6.1|This policy will be monitored to ensure that it is applied equally, fairly and consistently with the University’s Equality and Diversity policies.|
 |---|---|
@@ -75,6 +75,7 @@ The University of Manchester
 Page 3 of 5
 # Visa Costs and Loans Policy
 
+Document Control Box
 |Policy / Procedure title:|Visa costs and loans for dependant visas and immigration health surcharge policy|
 |---|---|
 |Date approved:|January 2019|
