@@ -6,10 +6,10 @@ The University of Manchester
 
 The University has significant holdings of art, artefacts and archives. These are primarily in four groups:
 
-- The Manchester Museum, the Whitworth Art Gallery, Jodrell Bank Discovery Centre
-- The Special Collections of the University of Manchester Library (of which the John Rylands Library is a part);
-- Tabley House;
-- The University Collections.
+- 1. The Manchester Museum, the Whitworth Art Gallery, Jodrell Bank Discovery Centre
+- 2. The Special Collections of the University of Manchester Library (of which the John Rylands Library is a part);
+- 3. Tabley House;
+- 4. The University Collections.
 
 Each of these groups maintains policies and procedures relating to the management of their collections and each has separate governance and approval processes. The Special Collections of the University of Manchester Library is the designated repository for the corporate archives of the University and of its constituent units.
 
@@ -35,7 +35,7 @@ The University Collections relate to the history of the University as an organis
 - Demonstrating the historical landscape to our liberal and progressive ethos, traditions and connections to the city and region.
 
 University Collections Policy June 2016
-# Definition and scope of the University Collections
+# 3. Definition and scope of the University Collections
 
 The University Collections compromise of thousands of items of art, artefacts and archival objects. The University Collections do not include any objects held by the Special Collections of the University of Manchester Library, the Cultural Institutions or Tabley House. The University Collections are managed as a single group with slightly different processes for the two notional branches of the University Collections:
 
@@ -49,7 +49,7 @@ Items in either collection may:
 - Be inside or outside buildings;
 - Be located off the University’s Estate, if an item is on loan to other organisations.
 
-# Governance and management of the University Collections
+# 4. Governance and management of the University Collections
 
 Responsibility for the University Collections rests with the University History and Heritage Strategy Group (UHHSG). The UHHSG escalates matters to, and is accountable to, the Planning and Resources Committee (PRC). Where necessary and appropriate, the UHHSG will escalate matters concerning the University Collections to the PRC.
 
@@ -58,12 +58,17 @@ The UHHSG invests the University Historian and Heritage Manager (UHHM) with day-
 University Collections Policy
 
 June 2016
-# Planning and Resources Committee
 
-# University History and Heritage Strategy Group
+Planning and Resources Committee
+
+University History and Heritage Strategy Group
 
 University Collections Advisory Group
 University Historian & Heritage Manager
+
+University Heritage Collection
+
+University Faculties & Residences Collections
 
 The University Historian and Heritage Manager (UHHM) oversees the management of, and has authority over, the University Collections through two processes - one for the University Heritage Collections and another for the University Faculties and Residences Collections.
 
@@ -112,7 +117,7 @@ The University Collections Advisory Group consists of the heads of collections i
 - Enable access to specialist advice and services;
 - Make recommendations based on the annual report of the University Collections.
 
-Where requested, the Group will provide recommendations to the UHHSG on the University Collections. The Group liaises or convenes when necessary to fulfill its role.
+Where requested, the Group will provide recommendations to the UHHSG on the University Collections. The Group liaises or convenes when necessary to fulfil its role.
 
 # 4.2 Role of the University History and Heritage Strategy Group (UHHSG)
 
