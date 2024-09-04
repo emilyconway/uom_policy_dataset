@@ -44,7 +44,7 @@ Code of Good Research Conduct, Version 2.1, May 2022 Page 3 of 5
 # Misconduct in Research
 
 ii. Misrepresentation of involvement, including inappropriate claims to authorship or attribution of work and denial of authorship/attribution to persons who have made an appropriate contribution.
-iii. Misrepresentation of interests, including failure to declare competing interests of researchers or funders of a study.
+iii.Misrepresentation of interests, including failure to declare competing interests of researchers or funders of a study.
 iv.Misrepresentation of qualifications, experience and/or credentials.
 v. Undisclosed duplication of publication (self-plagiarism), including undisclosed duplicate submission of manuscripts for publication.
 
