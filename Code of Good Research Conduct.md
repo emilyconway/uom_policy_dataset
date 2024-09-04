@@ -24,11 +24,11 @@ Where a concern about the conduct of research arises about a current student, th
 
 Research misconduct includes, but is not limited to, the following:
 
-|a) Fabrication (making up results, other outputs (for example, artefacts) or aspects of research, including documentation and participant consent, and presenting and/or recording them as if they were real when proposing, carrying out or reporting the results of research|
-|b) Falsification (the inappropriate manipulation and/or selection of research processes, materials, equipment, data, imagery and/or consents when proposing, carrying out or reporting the results of research|
-|c) Plagiarism (using other people’s ideas, intellectual property, or work (written or otherwise) without appropriate acknowledgement or permission|
-|d) Failure to meet legal, ethical and professional obligations, for example:
-|i. Not observing legal, ethical and other requirements for human research participants, animal subjects, human organs or tissue used in research, or for the protection of the environment. 
+a) Fabrication (making up results, other outputs (for example, artefacts) or aspects of research, including documentation and participant consent, and presenting and/or recording them as if they were real when proposing, carrying out or reporting the results of research
+b) Falsification (the inappropriate manipulation and/or selection of research processes, materials, equipment, data, imagery and/or consents when proposing, carrying out or reporting the results of research
+c) Plagiarism (using other people’s ideas, intellectual property, or work (written or otherwise) without appropriate acknowledgement or permission|
+d) Failure to meet legal, ethical and professional obligations, for example:
+i. Not observing legal, ethical and other requirements for human research participants, animal subjects, human organs or tissue used in research, or for the protection of the environment. 
 ii. Breach of duty of care for humans involved in research whether deliberately, recklessly or by gross negligence, including failure to obtain appropriate informed consent. 
 iii. Misuse of personal data, including inappropriate disclosures of the identity of research participants and other breaches of confidentiality. 
 iv. Improper conduct in peer review of research proposals, results or manuscripts submitted for publication. This includes failure to disclose conflicts of interest; inadequate disclosure of clearly limited competence; misappropriation of the content of material; and breach of confidentiality or abuse of material provided in confidence for peer review purposes. 
