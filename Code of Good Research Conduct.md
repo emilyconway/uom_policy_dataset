@@ -18,22 +18,27 @@ Researchers can expect of the University:
 |v.|Oversight of the implementation of the Code of Good Research Conduct|Research will be monitored or audited based on an assessment of risk so that the University can be assured of compliance with regulations and standards. The University will report annually to its Board of Governors on the implementation of its Code of Good Research Conduct.|
 |vi.|A robust and fair approach to dealing with allegations of research misconduct|The University is responsible for investigating any concerns about the conduct of research undertaken in its name raised about any of its staff or students, whether current or former, irrespective of who is funding or sponsoring the research in question (other than in exceptional cases where, for example, a student is also a member of staff of another organisation which will undertake its own investigation). The Code of Practice for investigating concerns about the conduct in research may may also apply to any person authorised to undertake research in the University or to use University facilities for the purposes of research (such as visiting, emeritus or honorary staff) and those carrying out research under the supervision/direction of a University of Manchester member of staff.
 
-
-
-
-
 Where a concern about the conduct of research arises about a current student, this would normally be dealt with under Regulation XVII, in accordance with the procedures outlined in Academic Malpractice: Guidance on the Handling of Cases. However, if the alleged conduct affects a published piece of research work or the supervisor is implicated in the complaint then the Code of Practice for Investigating Concerns about the Conduct in Research would apply.
 
 # Definition of research misconduct and poor research practice
 
 Research misconduct includes, but is not limited to, the following:
 
-|a) Fabrication|making up results, other outputs (for example, artefacts) or aspects of research, including documentation and participant consent, and presenting and/or recording them as if they were real when proposing, carrying out or reporting the results of research|
-|---|---|
-|b) Falsification|the inappropriate manipulation and/or selection of research processes, materials, equipment, data, imagery and/or consents when proposing, carrying out or reporting the results of research|
-|c) Plagiarism|using other people’s ideas, intellectual property, or work (written or otherwise) without appropriate acknowledgement or permission|
-|d) Failure to meet legal, ethical and professional obligations|Not observing legal, ethical and other requirements for human research participants, animal subjects, human organs or tissue used in research, or for the protection of the environment. Breach of duty of care for humans involved in research whether deliberately, recklessly or by gross negligence, including failure to obtain appropriate informed consent. Misuse of personal data, including inappropriate disclosures of the identity of research participants and other breaches of confidentiality. Improper conduct in peer review of research proposals, results or manuscripts submitted for publication. This includes failure to disclose conflicts of interest; inadequate disclosure of clearly limited competence; misappropriation of the content of material; and breach of confidentiality or abuse of material provided in confidence for peer review purposes. Misuse of research funds, equipment or premises. Mismanagement or inadequate preservation of data and/or primary materials where this could have a significant impact on the research or research outputs. Deliberately preventing the publication of research, for example by withholding data or by inappropriately withholding permissions.|
-|e) Misrepresentation|Misrepresentation of data, including suppression of relevant results/data or knowingly, recklessly or by gross negligence, presenting a flawed interpretation of data.|
+|a) Fabrication (making up results, other outputs (for example, artefacts) or aspects of research, including documentation and participant consent, and presenting and/or recording them as if they were real when proposing, carrying out or reporting the results of research|
+|b) Falsification (the inappropriate manipulation and/or selection of research processes, materials, equipment, data, imagery and/or consents when proposing, carrying out or reporting the results of research|
+|c) Plagiarism (using other people’s ideas, intellectual property, or work (written or otherwise) without appropriate acknowledgement or permission|
+|d) Failure to meet legal, ethical and professional obligations, for example:
+|i. Not observing legal, ethical and other requirements for human research participants, animal subjects, human organs or tissue used in research, or for the protection of the environment. 
+ii. Breach of duty of care for humans involved in research whether deliberately, recklessly or by gross negligence, including failure to obtain appropriate informed consent. 
+iii. Misuse of personal data, including inappropriate disclosures of the identity of research participants and other breaches of confidentiality. 
+iv. Improper conduct in peer review of research proposals, results or manuscripts submitted for publication. This includes failure to disclose conflicts of interest; inadequate disclosure of clearly limited competence; misappropriation of the content of material; and breach of confidentiality or abuse of material provided in confidence for peer review purposes. 
+v. Misuse of research funds, equipment or premises. 
+vi. Mismanagement or inadequate preservation of data and/or primary materials where this could have a significant impact on the research or research outputs. 
+vii. Deliberately preventing the publication of research, for example by withholding data or by inappropriately withholding permissions.|
+
+e) Misrepresentation:
+
+i. Misrepresentation of data, including suppression of relevant results/data or knowingly, recklessly or by gross negligence, presenting a flawed interpretation of data.|
 
 Code of Good Research Conduct, Version 2.1, May 2022 Page 2 of 5
 # Misconduct in Research
